@@ -24,7 +24,7 @@ ToolPurpose
 4. Power BI:Interactive dashboard and visualization.
 5. Gamma:Presentation and report generation.
 Steps & Workflow
-1. Exploratory Data Analysis (EDA)
+ Exploratory Data Analysis (EDA)
 
 1. Load dataset using Pandas.
 2. Examine data structure, types, and dimensions.
@@ -32,7 +32,7 @@ Steps & Workflow
 4. Generate summary statistics and distributions.
 5. Create initial visualizations for pattern recognition.
 
-2. Data Cleaning & Preprocessing
+ Data Cleaning & Preprocessing
 
 1. Handle missing and duplicate values.
 2. Remove or transform outliers.
@@ -40,21 +40,21 @@ Steps & Workflow
 4. Create derived features where applicable.
 5. Ensure data quality and consistency.
 
-3. Database Setup
+ Database Setup
 
 1. Create PostgreSQL database and schema.
 2. Load cleaned data into tables.
 3. Define primary and foreign keys.
 4. Establish proper indexing for performance.
 
-4. SQL Analysis
+ SQL Analysis
 
 1. Write optimized queries to answer key business questions.
 2. Aggregate and transform data for insights.
 3. Join multiple tables for comprehensive analysis.
 4. Export results for visualization.
 
-5. Dashboard Creation
+ Dashboard Creation
 
 1. Connect Power BI to PostgreSQL database.
 2. Build interactive visualizations.
@@ -62,7 +62,7 @@ Steps & Workflow
 4. Design professional, intuitive layout.
 5. Publish dashboard for stakeholder access.
 
-6. Reporting
+ Reporting
 
 1. Synthesize findings into coherent narrative.
 2. Create executive summary of key insights.
@@ -77,6 +77,9 @@ Future Enhancements
 3. Create additional dashboards for specific departments.
 4. Develop mobile-friendly report views.
 5. Integrate with business intelligence tools for self-service analytics.
+
+ Contact & Support
+For questions or feedback regarding this project, please reach out or review the documentation in individual notebooks.
  Contact & Support
 For questions or feedback regarding this project, please reach out or review the documentation in individual notebooks.
 
